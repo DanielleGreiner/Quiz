@@ -1,0 +1,15 @@
+2024319-070:INFO: Starting Registration Page...
+2024319-0713:INFO:Initializing name to bob
+2024319-0713:INFO:Initializing phone to 333-3333
+2024319-0713:INFO:Initializing age to 33
+2024319-0713:INFO:Initializing email to 33@gmail.com
+2024319-0713:INFO:Successfully initialized name to bob
+2024319-0713:INFO:Successfully initialized phone to 333-3333
+2024319-0713:INFO:Successfully initialized age to 33
+2024319-0713:INFO:Successfully initialized email to 33@gmail.com
+2024319-0714:INFO:Successfully generated encryption keys
+2024319-0714:INFO:Successfully encrypted name, age, phone and email
+2024319-0714:INFO:Successfully connected to database test.db
+2024319-0714:INFO:Successfully created database table person
+2024319-0714:INFO:Successfully inserted data into database person
+2024319-0714:INFO:Successfully selected row 1 from database person
